@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:52 SGT 2018
+hibernate-core-5.2.17.Final.jar>spring-releases=
+hibernate-core-5.2.17.Final.pom>spring-releases=
+hibernate-core-5.2.17.Final.jar>spring-libs-snapshot=
+hibernate-core-5.2.17.Final.pom>spring-libs-snapshot=

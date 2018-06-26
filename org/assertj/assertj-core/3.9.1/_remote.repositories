@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:52 SGT 2018
+assertj-core-3.9.1.jar>spring-releases=
+assertj-core-3.9.1.pom>spring-releases=
+assertj-core-3.9.1.jar>spring-libs-snapshot=
+assertj-core-3.9.1.pom>spring-libs-snapshot=

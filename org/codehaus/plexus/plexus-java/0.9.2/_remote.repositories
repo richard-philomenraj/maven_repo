@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:19 SGT 2018
+plexus-java-0.9.2.jar>spring-releases=
+plexus-java-0.9.2.jar>spring-libs-snapshot=
+plexus-java-0.9.2.pom>spring-libs-snapshot=
+plexus-java-0.9.2.pom>spring-releases=

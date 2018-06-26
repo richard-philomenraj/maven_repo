@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:51:01 SGT 2018
+plexus-interpolation-1.22.jar>spring-libs-snapshot=
+plexus-interpolation-1.22.pom>spring-libs-snapshot=
+plexus-interpolation-1.22.jar>spring-releases=
+plexus-interpolation-1.22.pom>spring-releases=

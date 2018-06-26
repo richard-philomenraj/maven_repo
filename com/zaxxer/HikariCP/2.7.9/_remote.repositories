@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:52 SGT 2018
+HikariCP-2.7.9.jar>spring-releases=
+HikariCP-2.7.9.pom>spring-releases=
+HikariCP-2.7.9.jar>spring-libs-snapshot=
+HikariCP-2.7.9.pom>spring-libs-snapshot=

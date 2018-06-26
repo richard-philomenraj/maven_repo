@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:52 SGT 2018
+javassist-3.22.0-GA.pom>spring-releases=
+javassist-3.22.0-GA.jar>spring-libs-snapshot=
+javassist-3.22.0-GA.pom>spring-libs-snapshot=
+javassist-3.22.0-GA.jar>spring-releases=

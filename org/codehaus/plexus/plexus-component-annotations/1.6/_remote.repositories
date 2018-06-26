@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:19 SGT 2018
+plexus-component-annotations-1.6.jar>spring-libs-snapshot=
+plexus-component-annotations-1.6.pom>spring-libs-snapshot=
+plexus-component-annotations-1.6.jar>spring-releases=
+plexus-component-annotations-1.6.pom>spring-releases=

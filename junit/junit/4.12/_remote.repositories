@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:52 SGT 2018
+junit-4.12.jar>spring-releases=
+junit-4.12.jar>spring-libs-snapshot=
+junit-4.12.pom>spring-libs-snapshot=
+junit-4.12.pom>spring-releases=

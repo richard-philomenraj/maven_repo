@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:52 SGT 2018
+log4j-to-slf4j-2.10.0.jar>spring-releases=
+log4j-to-slf4j-2.10.0.jar>spring-libs-snapshot=
+log4j-to-slf4j-2.10.0.pom>spring-libs-snapshot=
+log4j-to-slf4j-2.10.0.pom>spring-releases=

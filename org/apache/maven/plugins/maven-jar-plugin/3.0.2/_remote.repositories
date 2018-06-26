@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:53 SGT 2018
+maven-jar-plugin-3.0.2.pom>spring-libs-snapshot=
+maven-jar-plugin-3.0.2.jar>spring-libs-snapshot=
+maven-jar-plugin-3.0.2.jar>spring-releases=
+maven-jar-plugin-3.0.2.pom>spring-releases=

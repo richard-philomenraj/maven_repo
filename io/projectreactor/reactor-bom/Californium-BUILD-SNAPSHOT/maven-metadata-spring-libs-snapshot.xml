@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.projectreactor</groupId>
+  <artifactId>reactor-bom</artifactId>
+  <version>Californium-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180613.121134</timestamp>
+      <buildNumber>7</buildNumber>
+    </snapshot>
+    <lastUpdated>20180613121147</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Californium-BUILD-20180613.121134-7</value>
+        <updated>20180613121134</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>txt</extension>
+        <value>Californium-BUILD-20180613.121134-7</value>
+        <updated>20180613121134</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

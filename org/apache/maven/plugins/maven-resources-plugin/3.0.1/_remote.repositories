@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:53 SGT 2018
+maven-resources-plugin-3.0.1.pom>spring-releases=
+maven-resources-plugin-3.0.1.jar>spring-releases=
+maven-resources-plugin-3.0.1.pom>spring-libs-snapshot=
+maven-resources-plugin-3.0.1.jar>spring-libs-snapshot=

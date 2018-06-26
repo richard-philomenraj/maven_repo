@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.r2dbc</groupId>
+  <artifactId>r2dbc-postgresql</artifactId>
+  <version>1.0.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180622.143859</timestamp>
+      <buildNumber>29</buildNumber>
+    </snapshot>
+    <lastUpdated>20180622143900</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.BUILD-20180622.143859-29</value>
+        <updated>20180622143859</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.BUILD-20180622.143859-29</value>
+        <updated>20180622143859</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.BUILD-20180622.143859-29</value>
+        <updated>20180622143859</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.BUILD-20180622.143859-29</value>
+        <updated>20180622143859</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

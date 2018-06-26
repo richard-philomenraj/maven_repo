@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:50:59 SGT 2018
+commons-compress-1.11.jar>spring-releases=
+commons-compress-1.11.jar>spring-libs-snapshot=
+commons-compress-1.11.pom>spring-libs-snapshot=
+commons-compress-1.11.pom>spring-releases=

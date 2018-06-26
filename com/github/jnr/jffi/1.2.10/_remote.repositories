@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:30:45 SGT 2018
+jffi-1.2.10.pom>spring-libs-snapshot=
+jffi-1.2.10.jar>spring-libs-snapshot=
+jffi-1.2.10-native.jar>spring-libs-snapshot=

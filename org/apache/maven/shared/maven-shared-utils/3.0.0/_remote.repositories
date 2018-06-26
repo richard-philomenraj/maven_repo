@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 27 00:51:01 SGT 2018
+maven-shared-utils-3.0.0.jar>spring-libs-snapshot=
+maven-shared-utils-3.0.0.pom>spring-libs-snapshot=
+maven-shared-utils-3.0.0.jar>spring-releases=
+maven-shared-utils-3.0.0.pom>spring-releases=
